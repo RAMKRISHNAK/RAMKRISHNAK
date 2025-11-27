@@ -2,7 +2,7 @@
 
 ### 🔹 Full-Stack Developer | Java | React | Spring Boot | AWS | Microservices  
 
-Welcome to my GitHub! I build scalable applications, solve complex algorithm problems, and continuously upskill to stay FAANG-ready.
+Welcome to my GitHub! I build scalable applications, solve complex algorithm problems, and continuously upskill to stay updated with tech.
 
 ---
 

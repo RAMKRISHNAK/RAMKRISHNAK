@@ -27,7 +27,7 @@ Welcome to my GitHub! I build scalable applications, solve complex algorithm pro
 
 ## 🏆 Achievements
 
-- 5+ years of professional software engineering experience  
+- 4+ years of professional software engineering experience  
 - AWS Certified AI Practitioner (2025)  
 - Consistently solving algorithmic problems (LeetCode / CodeChef)  
 - Building scalable full-stack applications with modern cloud technologies  

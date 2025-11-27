@@ -42,8 +42,6 @@ Welcome to my GitHub! I build scalable applications, solve complex algorithm pro
 
 ## 📫 Connect with Me
 
-## Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramkrishna-kulkarni-02771a362/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ramkrishnask/)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-333333?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ramkrishna99)  

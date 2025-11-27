@@ -21,7 +21,7 @@ Welcome to my GitHub! I build scalable applications, solve complex algorithm pro
 
 - **[Fullstack-Projects](https://github.com/RAMKRISHNAK/Fullstack-Projects)** – Personal & practice projects using React + Java + Spring Boot + Microservices.  
 - **[DSA-Java](https://github.com/RAMKRISHNAK/DSA-Java)** – Algorithm & coding problem solutions in Java (LeetCode / CodeChef).  
-- **[Tech-Notes](https://github.com/RAMKRISHNAK/Tech-Notes)** – Curated notes covering Java, Spring Boot, AWS, React, DSA & System Design.
+- **[Software Engineering Notes](https://github.com/RAMKRISHNAK/software-engineering-notes)** – Curated notes covering Java, Spring Boot, AWS, React, DSA & System Design.
   
 ---
 

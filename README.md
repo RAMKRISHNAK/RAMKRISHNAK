@@ -22,8 +22,7 @@ Welcome to my GitHub! I build scalable applications, solve complex algorithm pro
 - **[Fullstack-Projects](https://github.com/RAMKRISHNAK/Fullstack-Projects)** – Personal & practice projects using React + Java + Spring Boot + Microservices.  
 - **[DSA-Java](https://github.com/RAMKRISHNAK/DSA-Java)** – Algorithm & coding problem solutions in Java (LeetCode / CodeChef).  
 - **[Tech-Notes](https://github.com/RAMKRISHNAK/Tech-Notes)** – Curated notes covering Java, Spring Boot, AWS, React, DSA & System Design.
-- **[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-ff7f50?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/ramkrishna99) 
-
+  
 ---
 
 ## 🏆 Achievements

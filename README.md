@@ -34,12 +34,6 @@ Welcome to my GitHub! I build scalable applications, solve complex algorithm pro
 
 ---
 
-## 📈 Stats
-
-![Ramkrishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAMKRISHNAK&show_icons=true&count_private=true&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramkrishna-kulkarni-02771a362/)  
